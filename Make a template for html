@@ -1,0 +1,6 @@
+Templates can be made with a simple text Editor.
+Templates for html require three files. First is a .txt file with pointers and Variables. The next two files are .html files witch accept data with forms. Once submitted the data is presented in the actual message to be send.
+
+A video showing how this is done is here: https://youtu.be/7hZH3TwGHQo
+
+Note: This example is a simplestic method of creating these file. It is recomended to us external editors to build complex forms. 
