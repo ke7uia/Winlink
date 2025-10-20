@@ -7,8 +7,9 @@ Just a file of my experiences with digital communications: GHutton.odt
 # VIDEO
 How to set the ports in Linux: 
      Use 'wine regedit'
-YouTube Video on Winlink Install     
-     youtube.com/watch?v=Yr3DICS7Twg
+# VIDEO
+     YouTube Video on Winlink Install     
+     http://youtube.com/watch?v=Yr3DICS7Twg
 
 # Windows 10 Guide
 How-To_Windows-10_Digirig_Configuration_v.1.3.pdf
